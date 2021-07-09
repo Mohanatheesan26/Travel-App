@@ -1,6 +1,6 @@
-# Travel_app
+# travel_app
 
-A new Flutter application.
+A Flutter application with firebase for MadHack 2021.
 
 ## Getting Started
 
